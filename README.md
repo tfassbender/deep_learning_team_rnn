@@ -1,0 +1,3 @@
+# Deep Learning - Team RNN
+
+Vortrag und Übung für den RNN Vortrag...

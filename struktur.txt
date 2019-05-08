@@ -1,0 +1,34 @@
+Rekurrente Neuronale Netze 
+
+
+Vorlesung:
+
+- Grundlagen
+	- Was machen RNNs anders als normale Neuronale Netze?
+	- Was können RNNs?
+	- Wofür werden sie (hauptsächlich) benutzt?
+
+- Rekurrente Neuronen
+	- Netze entlang der Zeitachse
+	- Berechnung der Ausgaben von Neuronen
+	- Gedächniss der Zellen (keine LSTM)
+	- Ein-Ausgabesequenzen (N->N, N->M, Encoder-Decoder)
+
+- Struktur von RNNs
+	- Skalare Eingaben/Ausgaben
+	- Vektorielle Eingaben/Ausgaben
+	- Deep RNNs
+	
+- Training von RNNs
+	- Backpropagation Trough Time
+	- Probleme die Auftreten (tiefe der Netze)
+
+- LSTM ( /GRU )
+	- Auftretende Probleme bei langen Eingaben
+	- Aufbau der LSTM
+	- ...
+	
+- Beispiele für die Verwendung von RNNs
+	- Natürliche Sprachverarbeitung
+	- Kreative Text-Erstellung
+	- Kombinationen von Neuronalen Netzen / CNNs mit RNNs
