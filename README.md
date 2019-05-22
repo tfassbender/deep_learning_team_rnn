@@ -4,5 +4,6 @@ Vortrag und Übung für den RNN Vortrag...
 
 ## Authoren (GitHub)
 
-tfassbender
-AssassinTee
+- tfassbender
+- mteser
+- AssassinTee
